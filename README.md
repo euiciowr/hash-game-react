@@ -1,4 +1,4 @@
-### [run game](https://euiciowr.github.io/hash-game-react)
+# [RUN GAME](https://euiciowr.github.io/hash-game-react)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
