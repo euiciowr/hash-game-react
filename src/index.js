@@ -10,7 +10,7 @@ function Square(props) {
       {props.value}
     </button>
   );
-  /* Note que com onClick = {() => alert ('click')}, estamos
+  /* onClick = {() => alert ('click')}, está
     passando uma função como prop onClick. O React só
     chamará essa função depois de um clique.*/
 }
